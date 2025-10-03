@@ -32,6 +32,20 @@ This project is built using **ASP.NET Core MVC, C#, EF Core, and SQL Server**.
 - **Frontend:** HTML, CSS, Razor Pages  
 
 ---
+
+## 📂 Project Structure  
+```plaintext
+TeamTrack/
+│-- Controllers/        # Application controllers
+│-- Models/             # Entity and data models
+│-- Views/              # Razor views for UI
+│-- Data/               # EF Core DbContext and migrations
+│-- wwwroot/            # Static files (CSS, JS, Images)
+│-- appsettings.json    # Database and app configuration
+│-- Program.cs          # Application entry point
+```
+---
+
 ## 📌 Future Improvements
 
 - 🔐 Authentication & Role-based access (Admin/User)
