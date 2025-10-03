@@ -35,7 +35,7 @@ This project is built using **ASP.NET Core MVC, C#, EF Core, and SQL Server**.
 
 ## 📂 Project Structure  
 ```plaintext
-TeamTrack/
+TeamTrack – Employee Management Platform/
 │-- Controllers/        # Application controllers
 │-- Models/             # Entity and data models
 │-- Views/              # Razor views for UI
